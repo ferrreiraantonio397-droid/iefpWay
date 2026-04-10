@@ -133,7 +133,7 @@ if (isset($_SESSION["id"])) {
                             <button type="submit" class="btn">Sign in!</button>
 
                         </form>
-                        <a class="btn" style="background-color: #5cb85c" href="/pages/register.php"
+                        <a class="btn" style="background-color: #818dad" href="/pages/register.php"
                         >Sign up!</a>
                     </div>
                 </div>
